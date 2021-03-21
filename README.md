@@ -1,4 +1,4 @@
-### Hi there 👋
+![Estrelas Giratórias e Espaço Vídeo Fundo Virtual para o Zoom](https://user-images.githubusercontent.com/37030292/111891193-c6b63e80-89cf-11eb-8706-d4ee6ed27e8e.png)
 
 <!--
 **patriciatozi/patriciatozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
