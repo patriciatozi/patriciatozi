@@ -1,5 +1,8 @@
 ![github_header](https://user-images.githubusercontent.com/37030292/111891357-38db5300-89d1-11eb-9422-f5652a3c76b9.png)
 
+## 💻 Technology and Tools
+![](https://img.shields.io/badge/Code-Python-blueviolet?logo=python&logoColor=white) ![](https://img.shields.io/badge/Code-Javascript-blueviolet?logo=javascript&logoColor=white) ![](https://img.shields.io/badge/Code-Java-blueviolet?logo=java&logoColor=white) ![](https://img.shields.io/badge/Code-Go_Lang-blueviolet?logo=go&logoColor=white) ![](https://img.shields.io/badge/OS-Windows-blueviolet?logo=windows&logoColor=white) ![](https://img.shields.io/badge/OS-Linux-blueviolet?logo=linux&logoColor=white) ![](https://img.shields.io/badge/Tools-Docker-blueviolet?logo=docker&logoColor=white) ![](https://img.shields.io/badge/Tools-MySQL-blueviolet?logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Tools-PL/SQL_Developer-blueviolet?logo=oracle&logoColor=white) ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-blueviolet?logo=visualstudiocode&logoColor=white) ![](https://img.shields.io/badge/Editor-Atom-blueviolet?logo=atom&logoColor=white) ![](https://img.shields.io/badge/Tool-Jupyter_Notebook-blueviolet?logo=anaconda&logoColor=white) ![](https://img.shields.io/badge/IDE-Net_Beans-blueviolet?logo=apache&logoColor=white)![](https://img.shields.io/badge/IDE-Eclipse-blueviolet?logo=eclipse&logoColor=white)
+
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=patriciatozi&count_private=true&theme=radical)
 **patriciatozi/patriciatozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
