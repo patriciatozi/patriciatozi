@@ -1,4 +1,4 @@
-![github_header](https://user-images.githubusercontent.com/37030292/111891357-38db5300-89d1-11eb-9422-f5652a3c76b9.png)
+![capa_github](https://user-images.githubusercontent.com/37030292/123340306-5e24b380-d522-11eb-83cc-b8938e53761c.png)
 <!--![counter](https://enxp7tl7m11xqsi.m.pipedream.net?color=blueviolet) -->
 
 ## 💻 Technologies and Tools
