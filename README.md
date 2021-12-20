@@ -5,7 +5,7 @@
 ### About me 
 - 26 yo, based in São Paulo/SP
 - Bachelor of Science and Technology with an emphasis in Biomedical Engineering
-- Junior Data Engineer at Traive Finance Brazil
+- Data Engineer at Traive Finance Brazil
 - Event Team Leader at Data Girls 
 - Languages: Portuguese, English, Spanish and Deutsch 
 
