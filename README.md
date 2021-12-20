@@ -4,7 +4,7 @@
 ## 👋 print("Hello world!") 
 ### About me 
 - 26 yo, based in São Paulo/SP
-- Bachelor of Science and Technology with an emphasis in Biomedical Engineering
+- Bachelor of Science and Technology with an emphasis in Biomedical Engineering - Federal University of ABC (UFABC)
 - Data Engineer at Traive Finance Brazil
 - Event Team Leader at Data Girls 
 - Languages: Portuguese, English, Spanish and Deutsch 
