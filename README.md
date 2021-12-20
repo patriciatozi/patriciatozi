@@ -11,7 +11,7 @@
 
 ### Interests
 - Web Development (Django, Go, Javascript, HTML and CSS)
-- Cloud Computing (AWS, Azure and Google Cloud)
+- Cloud Computing (AWS, Azure and GCP)
 - Data Science and Data Engineering
 - Databases (MySQL, Postegres and Oracle DB)
 - Hardware, robotics and medical devices
