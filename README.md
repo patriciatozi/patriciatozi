@@ -14,7 +14,7 @@
 - Cloud Computing (AWS, Azure and Google Cloud)
 - Data Science and Data Engineering
 - Databases (MySQL, Postegres and Oracle DB)
-- Hardware and robotics
+- Hardware, robotics and medical devices
 - Quantum Physics and Electromagnetism
 
 <!--
