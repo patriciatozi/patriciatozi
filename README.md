@@ -3,7 +3,7 @@
 
 ## 👋 print("Hello world!") 
 ### About me 
-- Based in São Paulo/SP
+- 26 yo, based in São Paulo/SP
 - Bachelor of Science and Technology with an emphasis in Biomedical Engineering
 - Junior Data Engineer at Traive Finance Brazil
 - Event Team Leader at Data Girls 
