@@ -7,7 +7,7 @@
 - Bachelor of Science and Technology with an emphasis in Biomedical Engineering - Federal University of ABC (UFABC)
 - Data Engineer at Traive Finance Brazil
 - Event Team Leader at Data Girls 
-- Languages: Portuguese, English, Spanish and Deutsch 
+- Languages: Português, English, Español and Deutsch 
 
 ### Interests
 - Web Development (Django, Go, Javascript, HTML and CSS)
