@@ -7,6 +7,7 @@
 - Bachelor of Science and Technology with an emphasis in Biomedical Engineering - Federal University of ABC (UFABC)
 - Data Engineer at Traive Finance Brazil
 - President at Data Girls 
+- Data Science & AI member at WoMakersCode
 - Languages: Português, English, Español and Deutsch 
 
 ### Interests
