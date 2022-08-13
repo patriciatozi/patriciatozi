@@ -4,10 +4,12 @@
 ## 👋 print("Hello world!") 
 ### About me 
 - 26 yo, based in São Paulo/SP
-- Bachelor of Science and Technology with an emphasis in Biomedical Engineering - Federal University of ABC (UFABC)
-- Data Engineer at Traive Finance Brazil
-- President at Data Girls 
-- Data Science & AI member at WoMakersCode
+- Bachelor of Science and Technology - Federal University of ABC (UFABC)
+- Postgraduate Lato Sensu in Data Engineering - Pontifical Catholic University of Minas Gerais
+- Data Engineer at Bayer
+- President at [Data Girls](https://linktr.ee/DataGirls) 
+- Data Science & AI member at [WoMakersCode](https://womakerscode.org/)
+- Data Engineer (Volunteer) at [Health Lake Institute](https://healthlake.com.br/)
 - Languages: Português, English, Español and Deutsch 
 
 ### Interests
