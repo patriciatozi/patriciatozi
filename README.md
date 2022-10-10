@@ -3,7 +3,7 @@
 
 ## 👋 print("Hello world!") 
 ### About me 
-- 26 yo, based in São Paulo/SP
+- 27 yo, based in São Paulo/SP
 - Bachelor of Science and Technology - Federal University of ABC (UFABC)
 - Postgraduate Lato Sensu in Data Engineering - Pontifical Catholic University of Minas Gerais
 - Data Engineer at [Bayer](https://www.bayer.com/en/)
