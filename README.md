@@ -1,4 +1,5 @@
-![White Minimalist Profile LinkedIn Banner (1)](https://user-images.githubusercontent.com/37030292/225998667-b781403c-9a82-47e2-bfad-ada96bda2d79.png)
+![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/37030292/225999454-f73ff6e7-ba82-4206-acbc-7c47e47426d5.png)
+
 
 <!--![counter](https://enxp7tl7m11xqsi.m.pipedream.net?color=blueviolet) -->
 
