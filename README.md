@@ -1,4 +1,5 @@
-![capa_github](https://user-images.githubusercontent.com/37030292/123340306-5e24b380-d522-11eb-83cc-b8938e53761c.png)
+![White Minimalist Profile LinkedIn Banner (1)](https://user-images.githubusercontent.com/37030292/225998667-b781403c-9a82-47e2-bfad-ada96bda2d79.png)
+
 <!--![counter](https://enxp7tl7m11xqsi.m.pipedream.net?color=blueviolet) -->
 
 ## 👋 print("Hello world!") 
