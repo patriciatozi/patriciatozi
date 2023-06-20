@@ -8,7 +8,7 @@
 - 27 yo, based in São Paulo/SP
 - Bachelor of Science and Technology - Federal University of ABC (UFABC)
 - Postgraduate Lato Sensu in Data Engineering - Pontifical Catholic University of Minas Gerais
-- Data Engineer at [Bayer](https://www.bayer.com/en/)
+- Senior Data Engineer at [Bayer](https://www.bayer.com/en/)
 - President at [Data Girls](https://linktr.ee/DataGirls) 
 - Data Science & AI member at [WoMakersCode](https://womakerscode.org/)
 - Data Engineer (Volunteer) at [Health Lake Institute](https://healthlake.com.br/)
