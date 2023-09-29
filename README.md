@@ -5,13 +5,12 @@
 
 ## 👋 print("Hello world!") 
 ### About me 
-- 27 yo, based in São Paulo/SP
+- 28 yo, based in São Paulo/SP
 - Bachelor of Science and Technology - Federal University of ABC (UFABC)
 - Postgraduate Lato Sensu in Data Engineering - Pontifical Catholic University of Minas Gerais
 - Senior Data Engineer at [Bayer](https://www.bayer.com/en/)
 - President at [Data Girls](https://linktr.ee/DataGirls) 
 - Data Science & AI member at [WoMakersCode](https://womakerscode.org/)
-- Data Engineer (Volunteer) at [Health Lake Institute](https://healthlake.com.br/)
 - Languages: Português, English, Español and Deutsch 
 
 ### Interests
