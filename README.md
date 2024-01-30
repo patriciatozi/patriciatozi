@@ -1,4 +1,5 @@
-![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/37030292/225999454-f73ff6e7-ba82-4206-acbc-7c47e47426d5.png)
+
+![White Minimalist Profile LinkedIn Banner](https://github.com/patriciatozi/patriciatozi/assets/37030292/5dcaadcf-c070-4055-a2a7-1e57465d00f0)
 
 
 <!--![counter](https://enxp7tl7m11xqsi.m.pipedream.net?color=blueviolet) -->
@@ -8,7 +9,7 @@
 - 28 yo, based in São Paulo/SP
 - Bachelor of Science and Technology - Federal University of ABC (UFABC)
 - Postgraduate Lato Sensu in Data Engineering - Pontifical Catholic University of Minas Gerais
-- Senior Data Engineer at [Bayer](https://www.bayer.com/en/)
+- Data Engineer at [Dell](https://www.dell.com/en-us/dt/corporate/about-us/who-we-are.htm)
 - President at [Data Girls](https://linktr.ee/DataGirls) 
 - Data Science & AI member at [WoMakersCode](https://womakerscode.org/)
 - Languages: Português, English, Español and Deutsch 
